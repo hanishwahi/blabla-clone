@@ -13,6 +13,7 @@ export default {
         foreground: "var(--foreground)",
         primary: "#00aff5",
         secondary: "#6f8b90",
+        blue: "#054652",
       },
       fontSize: {
         10: "10px",
@@ -38,12 +39,12 @@ export default {
         50: "50px",
       },
       fontWeight: {
-        300: 300,
-        400: 400,
-        500: 500,
-        600: 600,
-        700: 700,
-        800: 800,
+        300: "300",
+        400: "400",
+        500: "500",
+        600: "600",
+        700: "700",
+        800: "800",
       },
       borderRadius: {
         5: "5px",
